@@ -1,16 +1,15 @@
-### Hi there 👋
+##  About Me
 
-<!--
-**maykonalves/maykonalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Maykon, I currently live in Mogi das Cruzes, Brazil and actually I solve comercial problems based in data in a Educational Company based in São Paulo. I seek to build a career in the field of datascience and for this I'll use 2021 to make this real.
 
-Here are some ideas to get you started:
+## Detailed Information
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Name:** Maykon Alves
+* **Age:** 22
+* **City:** Mogi das Cruzes/SP
+* **Stack:** Python - SQL
+* **Univeristy:** Production Enginering and Data Science in Braz Cubas Education
+
+## Curiosities
+
+* There is nothing here, for now.
