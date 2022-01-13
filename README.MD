@@ -5,9 +5,9 @@ My name is Maykon, I currently live in Mogi das Cruzes, Brazil and actually I so
 ## Detailed Information
 
 * **Name:** Maykon Alves
-* **Age:** 22
-* **City:** Mogi das Cruzes/SP
-* **Stack:** Python - SQL
+* **Age:** 23
+* **City:** São Sebastião/SP
+* **Stack:** Python - SQL - PHP
 * **Univeristy:** Production Enginering and Data Science in Braz Cubas Education
 
 ## Curiosities
