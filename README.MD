@@ -1,15 +1,26 @@
-##  About Me
+## About Me  
 
-Hi! my name is Maykon, I currently live in Sao Sebastiao, Brazil and actually I work as Business Inteligence Analyst.
+Hi! My name is Maykon, and I'm a **Data Analyst** with experience in **data analysis, ETL processes, data modeling, and machine learning**. My main focus is transforming raw data into actionable insights and building predictive models to support decision-making.  
 
-## Detailed Information
+## Skills & Technologies  
 
-* **Name:** Maykon Alves
-* **Age:** 23
-* **City:** São Sebastião/SP
-* **Stack:** Python - SQL
-* **Univeristy:** Production Enginering and Data Scientist
+- **Languages & Tools:** Python, SQL 
+- **Data & Analytics:** Pandas, NumPy, Power BI, dbt, Spark  
+- **Machine Learning:** Scikit-learn, TensorFlow (basic), feature engineering  
+- **ETL & Automation:** Prefect, Airflow  
+- **Interests:** Data engineering, machine learning, financial markets, and automation  
 
-## Curiosities
+## Education  
 
-* There is nothing here, for now.
+- **Degree:** Production Engineering
+- **MBA:** Data Analytics & Business Intelligence  
+
+## What I'm Working On  
+
+- Automating data workflows and integrating different data sources  
+- Enhancing my skills in data engineering, Spark, and machine learning  
+- Exploring financial data analysis and investment strategies  
+
+## Let's Connect  
+
+Feel free to check out my projects or reach out on **[LinkedIn](https://www.linkedin.com/in/maykonalves/)**!
